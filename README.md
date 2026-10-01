@@ -38,7 +38,7 @@
 | Project | Hackathon | Tech | Link |
 |---------|-----------|------|------|
 | Project 1 |Agora-Conversational-AI-Hackathon| Flutter, AI | [Repo](https://github.com/AmarVerma99/-Agora-Conversational-AI-Hackathon) |
-| Project 2 | Hackathon name | React, Firebase | [Repo](https://github.com/AmarVerma99/repo-name) |
+| Project 2 | cockroach_DB)|Ai Agent Large memory scalability  | [Repo](https://github.com/AmarVerma99/cockroach_DB) |
 
 ### 📊 GitHub Stats
 <p align="center">
