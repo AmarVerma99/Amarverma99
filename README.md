@@ -7,9 +7,9 @@
 
 ### 🚀 About Me
 - 📱 Flutter developer intern at a startup
-- 🤖 AI agents ko apps me integrate karta hoon
-- 🏆 Hackathons me participate karta hoon aur projects build karta hoon
-- ⚙️ DevOps seekh raha hoon aur use kar raha hoon
+- 🤖 I integrate AI agents into apps
+- 🏆 I participate in hackathons and build projects
+- ⚙️ I'm learning and applying DevOps practices
 
 ### 🛠️ Tech Stack
 
@@ -47,8 +47,4 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AmarVerma99&theme=tokyonight" />
-</p>
-
-### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_ID)
+  <img
