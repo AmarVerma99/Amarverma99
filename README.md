@@ -37,7 +37,7 @@
 ### 🏆 Hackathon Projects
 | Project | Hackathon | Tech | Link |
 |---------|-----------|------|------|
-| Project 1 | Hackathon name | Flutter, AI | [Repo](https://github.com/AmarVerma99/repo-name) |
+| Project 1 |Agora-Conversational-AI-Hackathon| Flutter, AI | [Repo](https://github.com/AmarVerma99/-Agora-Conversational-AI-Hackathon) |
 | Project 2 | Hackathon name | React, Firebase | [Repo](https://github.com/AmarVerma99/repo-name) |
 
 ### 📊 GitHub Stats
