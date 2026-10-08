@@ -1,25 +1,18 @@
 <div align="center">
 
-  <!-- 🌟 Animated Wave & Header Banner -->
-  <img src="https://raw.githubusercontent.com/koolkishan/koolkishan/master/assets/images/dev.gif" width="100%" height="220" alt="Amar Verma - AI & Software Developer" style="border-radius: 12px; object-fit: cover;" />
+  <!-- 🌌 Futuristic Cyber/AI Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=AMAR%20VERMA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20AI%20Engineer%20%40%20Akoode%20Technology&descSize=17&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+
+  <br>
+
+  <!-- ⚡ Dynamic Live Animated Typing SVG -->
+  <a href="https://github.com/AmarVerma99">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&lines=Mobile+App+Developer+%26+AI+Engineer+%40+Akoode;Building+Enterprise+CRMs+%26+Flutter+Ecosystems;Architecting+Autonomous+Agentic+AI+Workflows;Java+17+%26+Spring+Boot+Microservices;Nebius+x+NVIDIA+Hackathon+Builder;Anthropic+Claude+Certified+Engineer" alt="Typing SVG" />
+  </a>
 
   <br><br>
 
-  <h1>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px">
-    Hi there, I'm <span style="color: #6366f1;">Amar Verma</span>
-  </h1>
-
-  <h3>📱 Mobile & Full-Stack Developer &nbsp;|&nbsp; 🤖 AI Agents & Backend Engineer</h3>
-
-  <!-- ⚡ Dynamic Animated Typing SVG -->
-  <p align="center">
-    <a href="https://github.com/AmarVerma99">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&lines=Building+Cross-Platform+Flutter+Apps;Architecting+Agentic+AI+%26+LLM+Workflows;Developing+Scalable+Java+%26+Spring+Boot+Backends;Nebius+x+NVIDIA+Hackathon+Builder;Anthropic+Claude+Certified+Engineer" alt="Typing SVG" />
-    </a>
-  </p>
-
-  <!-- 🌐 Social Badges -->
+  <!-- 🌐 Social Media & Professional Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/amarverma99" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -42,105 +35,106 @@
 
 ---
 
-### 👨‍💻 About Me & What I Do
+### 💼 Professional Experience & Current Role
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="65%">
+      <h3>🏢 <b>Mobile App Developer & AI Engineer</b> · <i>Akoode Technology</i></h3>
+      <p>📍 <i>Gurugram Cyber City, India</i></p>
       <ul>
-        <li>📍 Based in <b>Gurugram Cyber City, India</b>.</li>
-        <li>📱 <b>Flutter & Mobile Engineer:</b> Crafting fluid, reactive mobile experiences and custom widget ecosystems.</li>
-        <li>🤖 <b>AI Agents & LLM Builder:</b> Integrating autonomous AI workflows, <b>NVIDIA Nemotron</b>, <b>LangChain</b>, and <b>Anthropic Claude</b> into real-world applications.</li>
-        <li>⚡ <b>Backend & Systems:</b> Developing scalable <b>Java / Spring Boot</b> RESTful microservices, WebRTC real-time media channels, and distributed SQL pipelines (<b>CockroachDB</b>).</li>
-        <li>🏆 <b>Hackathon Enthusiast:</b> Built <i>Opus Copilot</i> (Nebius x NVIDIA Hackathon), <i>Agora Conversational AI</i>, and <i>EchoTalk WebRTC</i>.</li>
-        <li>🧠 <b>Problem Solver:</b> Solved <b>200+ DSA problems</b> across LeetCode & GeeksforGeeks · <b>3-Star Problem Solver</b> on HackerRank.</li>
+        <li>📱 <b>Production Enterprise CRM:</b> Architected and shipped a company-wide internal enterprise CRM and mobile application actively utilized by all employees on a daily basis.</li>
+        <li>⏱️ <b>Daily Attendance & Shift Engine:</b> Built high-precision <b>Daily Check-in / Check-out</b> modules with geolocation geofencing, real-time presence tracking, and overtime calculation.</li>
+        <li>🏖️ <b>Automated Leave & Workflow Pipeline:</b> Implemented dynamic leave application, multi-tier manager approval workflows, holiday calendars, and instant push notification systems.</li>
+        <li>🤖 <b>AI & Automation Integration:</b> Integrated intelligent reporting dashboards and agentic workflows to automate HR analytics and employee performance metrics.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Coding GIF" />
+    <td width="35%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding Animation" style="border-radius: 8px;" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
 #### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css,tailwind&perline=8" />
+</p>
 
-#### 🤖 AI, LLMs & Agentic Systems
-![NVIDIA](https://img.shields.io/badge/NVIDIA_Nemotron-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+#### 🤖 AI, LLMs & Real-Time Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,nodejs&perline=8" />
+  <br>
+  <img src="https://img.shields.io/badge/WebRTC_RealTime-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_Nemotron_3-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nebius_Token_Factory-000000?style=for-the-badge&logo=target&logoColor=white" />
+</p>
 
-#### ☕ Backend, Databases & Cloud
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### ☕ Enterprise Backends, Databases & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,mysql,postgres,mongodb,firebase,docker,linux,git,githubactions,postman&perline=6" />
+  <br>
+  <img src="https://img.shields.io/badge/CockroachDB_Distributed_SQL-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-### 🏆 Featured & Hackathon Projects
+### 🏆 Flagship & Hackathon Projects
 
 <table>
   <thead>
     <tr>
       <th>Project</th>
-      <th>Hackathon / Category</th>
-      <th>Core Tech Stack</th>
-      <th>Repository</th>
+      <th>Role / Type</th>
+      <th>Key Engineering Highlights</th>
+      <th>Source</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Opus Copilot</b></td>
+      <td><b>🏢 Akoode Enterprise CRM</b></td>
+      <td>Production Mobile & Web App</td>
+      <td>Daily Check-in / Check-out, geofencing, leave approval lifecycle & automated HR analytics used daily across the organization.</td>
+      <td><i>Internal Enterprise</i></td>
+    </tr>
+    <tr>
+      <td><b>🧠 Opus Copilot</b></td>
       <td>Nebius x NVIDIA AI Hackathon</td>
-      <td>Python, NVIDIA Nemotron-3, LangChain, Nebius Token Factory</td>
-      <td><a href="https://github.com/AmarVerma99/OpusCopilot">View Code 🚀</a></td>
+      <td>Autonomous CI/CD failure-diagnosis copilot using <b>NVIDIA Nemotron-3 Ultra</b> via Nebius Token Factory for automated root-cause fixes.</td>
+      <td><a href="https://github.com/AmarVerma99/OpusCopilot"><b>GitHub 🚀</b></a></td>
     </tr>
     <tr>
-      <td><b>EchoTalk AI</b></td>
-      <td>Real-Time WebRTC CRM</td>
-      <td>WebRTC, React, Node.js, Google OAuth, Whisper API</td>
-      <td><a href="https://github.com/AmarVerma99/EchoTalk-AI">View Code 🚀</a></td>
+      <td><b>📞 EchoTalk AI</b></td>
+      <td>Intelligent WebRTC CRM</td>
+      <td>Real-time peer-to-peer audio/video calling with Google OAuth, live voice-to-text transcription, and AI meeting summaries.</td>
+      <td><a href="https://github.com/AmarVerma99/EchoTalk-AI"><b>GitHub 🚀</b></a></td>
     </tr>
     <tr>
-      <td><b>Agora Conversational AI</b></td>
-      <td>Agora Voice Agent Hackathon</td>
-      <td>Flutter, Dart, Agora RTC SDK, Voice AI Engine</td>
-      <td><a href="https://github.com/AmarVerma99/-Agora-Conversational-AI-Hackathon">View Code 🚀</a></td>
+      <td><b>🎙️ Agora Conversational AI</b></td>
+      <td>Voice Agent Hackathon</td>
+      <td>Ultra-low-latency real-time voice conversational assistant built on Flutter and Agora Conversational AI engine.</td>
+      <td><a href="https://github.com/AmarVerma99/-Agora-Conversational-AI-Hackathon"><b>GitHub 🚀</b></a></td>
     </tr>
     <tr>
-      <td><b>CockroachDB AI Memory</b></td>
-      <td>Scalable Distributed Memory</td>
-      <td>CockroachDB, Python, LangChain, Distributed SQL</td>
-      <td><a href="https://github.com/AmarVerma99/cockroach_DB">View Code 🚀</a></td>
+      <td><b>🗄️ CockroachDB Scalable Memory</b></td>
+      <td>Distributed AI Memory</td>
+      <td>Multi-region fault-tolerant persistent memory infrastructure for agentic AI systems using CockroachDB.</td>
+      <td><a href="https://github.com/AmarVerma99/cockroach_DB"><b>GitHub 🚀</b></a></td>
     </tr>
     <tr>
-      <td><b>Hospital Management System</b></td>
-      <td>Enterprise Backend</td>
-      <td>Java 17, Spring Boot 3, Spring Data JPA, MySQL</td>
-      <td><a href="https://github.com/AmarVerma99/Hospital-Management-System">View Code 🚀</a></td>
+      <td><b>🏥 Hospital Management System</b></td>
+      <td>Spring Boot Backend</td>
+      <td>Enterprise-grade healthcare management backend with RESTful CRUD APIs, MySQL database schemas, and Spring Data JPA.</td>
+      <td><a href="https://github.com/AmarVerma99/Hospital-Management-System"><b>GitHub 🚀</b></a></td>
     </tr>
   </tbody>
 </table>
@@ -149,39 +143,52 @@
 
 ### 📜 Verified Certifications & Credentials
 
-- 🏅 **Anthropic Claude 101** — [Verify Credential](https://verify.skilljar.com/c/47igvefae5kb)
-- 🏅 **Anthropic Claude Code 101** — [Verify Credential](https://verify.skilljar.com/c/jh28jpyhgpzm)
-- 🏅 **Web Development (MERN Stack)** — E&ICT Academy, IIT Kanpur
-- 🏅 **C / C++ Programming & Core DSA** — E&ICT Academy, IIT Kanpur
-- 🎓 **B.Tech in Computer Science & Engineering (2022–2026)** — GNIOT (AKTU University)
+<table>
+  <tr>
+    <td width="50%">
+      <ul>
+        <li>🏅 <b>Anthropic Claude 101</b> — <a href="https://verify.skilljar.com/c/47igvefae5kb">Verify Certificate 🔗</a></li>
+        <li>🏅 <b>Anthropic Claude Code 101</b> — <a href="https://verify.skilljar.com/c/jh28jpyhgpzm">Verify Certificate 🔗</a></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <ul>
+        <li>🏅 <b>Web Development (MERN Stack)</b> — <i>E&ICT Academy, IIT Kanpur</i></li>
+        <li>🏅 <b>C / C++ Programming & Core DSA</b> — <i>E&ICT Academy, IIT Kanpur</i></li>
+        <li>🎓 <b>B.Tech in Computer Science</b> — <i>GNIOT (AKTU University)</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Real-Time Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AmarVerma99&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmarVerma99&theme=tokyonight&hide_border=true&stroke=6366f1&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&background=0f172a" width="48%" alt="GitHub Streak" />
+  <!-- 1. Stats & Verified Streak Row -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AmarVerma99&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8&bg_color=0f172a" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AmarVerma99&theme=tokyonight&hide_border=true&stroke=6366f1&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&background=0f172a" width="48%" alt="GitHub Streak" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarVerma99&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0f172a" width="48%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AmarVerma99&theme=tokyonight&no-frame=true&margin-w=4" width="48%" alt="Trophies" />
+  <!-- 2. Languages & Featured Repo Cards (100% Live) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarVerma99&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarVerma99&repo=OpusCopilot&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="48%" alt="Featured Repo OpusCopilot" />
 
   <br><br>
 
-  <!-- 🐍 Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/AmarVerma99/AmarVerma99/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
+  <!-- 🤖 Live Animated Cyber Bot Writing Code -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" alt="Animated Coding Terminal" style="border-radius: 8px;" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Bot Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=100&section=footer" width="100%" />
+  <sub><i>⚡ "Transforming complex logic into scalable, intelligent software."</i></sub>
   <br>
-  <sub><i>"Building scalable systems with passion, coffee ☕, and intelligent code."</i></sub>
-  <br><br>
-  <b>Connect with me: <a href="mailto:amarv0302@gmail.com">amarv0302@gmail.com</a></b>
+  <b>Let's build something impactful: <a href="mailto:amarv0302@gmail.com">amarv0302@gmail.com</a></b>
 </div>
