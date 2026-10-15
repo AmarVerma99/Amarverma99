@@ -110,7 +110,7 @@
       <td><b>🧠 Opus Copilot</b></td>
       <td>Nebius x NVIDIA AI Hackathon</td>
       <td>Autonomous CI/CD failure-diagnosis copilot using <b>NVIDIA Nemotron-3 Ultra</b> via Nebius Token Factory for automated root-cause fixes.</td>
-      <td><a href="https://github.com/AmarVerma99/OpusCopilot"><b>GitHub 🚀</b></a></td>
+      <td><a href="https://github.com/AmarVerma99/Nebius-x-NVIDIA-Global-AI-Hackathon"><b>GitHub 🚀</b></a></td>
     </tr>
     <tr>
       <td><b>📞 EchoTalk AI</b></td>
