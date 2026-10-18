@@ -1,19 +1,25 @@
 <div align="center">
 
   <!-- 🌌 Futuristic Cyber/AI Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=AMAR%20VERMA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20AI%20Engineer%20%40%20Akoode%20Technology&descSize=17&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=AMAR%20VERMA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Full--Stack%20%26%20AI%20Engineer&descSize=17&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <br>
 
   <!-- ⚡ Dynamic Live Animated Typing SVG -->
   <a href="https://github.com/AmarVerma99">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&lines=Mobile+App+Developer+%26+AI+Engineer+%40+Akoode;Building+Enterprise+CRMs+%26+Flutter+Ecosystems;Architecting+Autonomous+Agentic+AI+Workflows;Java+17+%26+Spring+Boot+Microservices;Nebius+x+NVIDIA+Hackathon+Builder;Anthropic+Claude+Certified+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&lines=Mobile+App+Developer+%26+AI+Engineer;Building+Enterprise+CRMs+%26+Flutter+Ecosystems;Delivering+Commercial+Client+EdTech+Mobile+Apps;Architecting+Autonomous+Agentic+AI+Workflows;Java+17+%26+Spring+Boot+Microservices;Anthropic+Claude+%26+Google+Cloud+Certified" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <!-- 🌐 Social Media & Professional Badges -->
+  <!-- 🌐 Social Media, Resume & Professional Badges -->
   <p align="center">
+    <a href="https://github.com/AmarVerma99/Amar_portfolio/blob/main/resume.tex" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-1--Page_Resume_(LaTeX)-EA580C?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+    </a>
+    <a href="https://github.com/AmarVerma99/Amar_portfolio/tree/main/certificates" target="_blank">
+      <img src="https://img.shields.io/badge/Certificates-5_Verified_PDFs-10B981?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Certificates" />
+    </a>
     <a href="https://www.linkedin.com/in/amarverma99" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -35,6 +41,42 @@
 
 ---
 
+### 📄 Executive 1-Page Resume (Curriculum Vitae)
+
+> **Quick Links:** 📥 [**Download LaTeX Resume (`resume.tex`)**](https://github.com/AmarVerma99/Amar_portfolio/blob/main/resume.tex) &nbsp;|&nbsp; 🎓 [**Browse All Verified Certificate PDFs (`certificates/`)**](https://github.com/AmarVerma99/Amar_portfolio/tree/main/certificates) &nbsp;|&nbsp; 🚀 [**PeopleSphere on Google Play Store**](https://play.google.com/store/apps/details?id=com.akoode.peoplesphere)
+
+<details open>
+<summary><b>🔍 Click to Expand / Collapse Full 1-Page Resume</b></summary>
+<br>
+
+#### **Amar Verma**
+**Gurugram / Noida, India** &nbsp;|&nbsp; 📱 **+91-6352756347** &nbsp;|&nbsp; ✉️ **amarv0302@gmail.com**  
+[LinkedIn](https://www.linkedin.com/in/amarverma99/) · [GitHub](https://github.com/AmarVerma99) · [LeetCode](https://leetcode.com/u/codebyamar/) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/amarvxlw1) · [Portfolio](https://amarverma99.github.io/amarvermaportfolio/)
+
+---
+
+#### 💼 Professional Summary
+Results-driven **Software Developer & Mobile Engineer** with production experience architecting, building, and deploying applications live on the **Google Play Store** and delivering commercial client platforms. Proficient in **Flutter, React Native, Java, Spring Boot, Node.js**, and **Agentic AI/LLM systems** (NVIDIA Nemotron, Anthropic Claude, LangChain). Proven ability to engineer scalable REST microservices, real-time WebRTC communications, and battery-optimized mobile telemetry engines.
+
+---
+
+#### 🛠️ Technical Skills
+- **Core Languages:** Java (17+), Python, C/C++, Dart, JavaScript (ES6+), TypeScript, SQL
+- **Mobile & Frontend:** Flutter 3.x, React Native (Expo Router), React 19, HTML5, CSS3, Tailwind CSS, Provider, Zustand
+- **Backend & Real-Time:** Spring Boot 3, Spring Data JPA, Hibernate, Node.js, Express, REST APIs, WebRTC, Socket.io
+- **AI & LLM Systems:** Agentic AI, NVIDIA Nemotron-3 Ultra, Anthropic Claude API, LangChain, Google Gemini API, Prompt Engineering
+- **Databases & DevOps:** MySQL, PostgreSQL, MongoDB, CockroachDB, Docker, Google Play Console, Postman, Git/GitHub, Linux
+
+---
+
+#### 🎓 Education
+- **Bachelor of Technology (B.Tech) in Computer Science & Engineering** | *CGPA: 7.5* (2022 – 2026)  
+  *Greater Noida Institute of Technology (AKTU University), Greater Noida, Uttar Pradesh*
+
+</details>
+
+---
+
 ### 💼 Professional Experience & Current Role
 
 <table>
@@ -43,10 +85,10 @@
       <h3>🏢 <b>Mobile App Developer & AI Engineer</b> · <i>Akoode Technology</i></h3>
       <p>📍 <i>Gurugram Cyber City, India</i></p>
       <ul>
-        <li>📱 <b>Production Enterprise CRM:</b> Architected and shipped a company-wide internal enterprise CRM and mobile application actively utilized by all employees on a daily basis.</li>
-        <li>⏱️ <b>Daily Attendance & Shift Engine:</b> Built high-precision <b>Daily Check-in / Check-out</b> modules with geolocation geofencing, real-time presence tracking, and overtime calculation.</li>
-        <li>🏖️ <b>Automated Leave & Workflow Pipeline:</b> Implemented dynamic leave application, multi-tier manager approval workflows, holiday calendars, and instant push notification systems.</li>
-        <li>🤖 <b>AI & Automation Integration:</b> Integrated intelligent reporting dashboards and agentic workflows to automate HR analytics and employee performance metrics.</li>
+        <li>📱 <b>Production Enterprise App on Play Store:</b> Architected and deployed <b>PeopleSphere</b> (<code>com.akoode.peoplesphere</code>) on Google Play Store, actively used daily across company operations.</li>
+        <li>⏱️ <b>Geofenced Telemetry & Attendance:</b> Engineered tamper-proof GPS geofencing & Office Wi-Fi BSSID verification for live employee punch-in/out attendance and workday timers.</li>
+        <li>📑 <b>Automated Payroll & DWR:</b> Built dynamic PDF salary payslip generation with tax breakdowns, 360-degree radar appraisals, and daily work reporting (DWR) workflows.</li>
+        <li>🤖 <b>Backend & Real-Time Telemetry:</b> Engineered Node.js, Express, MongoDB microservices, and WebSockets with Provider (MVVM) state management.</li>
       </ul>
     </td>
     <td width="35%" align="center">
@@ -71,6 +113,7 @@
   <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,nodejs&perline=8" />
   <br>
   <img src="https://img.shields.io/badge/WebRTC_RealTime-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA_Nemotron_3-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic_Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -88,7 +131,7 @@
 
 ---
 
-### 🏆 Flagship & Hackathon Projects
+### 🏆 Flagship & Commercial Client Projects
 
 <table>
   <thead>
@@ -96,20 +139,26 @@
       <th>Project</th>
       <th>Role / Type</th>
       <th>Key Engineering Highlights</th>
-      <th>Source</th>
+      <th>Source / Live</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>🏢 Akoode Enterprise CRM</b></td>
-      <td>Production Mobile & Web App</td>
-      <td>Daily Check-in / Check-out, geofencing, leave approval lifecycle & automated HR analytics used daily across the organization.</td>
-      <td><i>Internal Enterprise</i></td>
+      <td><b>🏢 PeopleSphere (Enterprise CRM & HRMS)</b></td>
+      <td>Production Mobile App (Google Play Store)</td>
+      <td>Live on Google Play Store (<code>com.akoode.peoplesphere</code>). Features GPS geofencing attendance, dynamic PDF salary payslips, radar appraisals, and daily work reporting (DWR).</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.akoode.peoplesphere"><b>Play Store Live 🚀</b></a></td>
+    </tr>
+    <tr>
+      <td><b>🇮🇳 Smart Tayari (EdTech Platform)</b></td>
+      <td><span style="color: #10B981; font-weight: bold;">💼 Delivered Commercial Client Project</span></td>
+      <td>Full-scale commercial EdTech mobile platform (23+ production screens) in <b>React Native (Expo Router v4)</b> & Node.js/Prisma. Integrated <b>Razorpay/UPI Payment Gateway</b>, paywalled live classes, <b>Google Gemini AI</b> (AI Madad Hinglish doubt-solver), <b>LiveKit WebRTC</b> group study rooms, and CBT mock exam engine.</td>
+      <td><a href="https://github.com/AmarVerma99/smart_tayari_app"><b>GitHub 🚀</b></a></td>
     </tr>
     <tr>
       <td><b>🧠 Opus Copilot</b></td>
       <td>Nebius x NVIDIA AI Hackathon</td>
-      <td>Autonomous CI/CD failure-diagnosis copilot using <b>NVIDIA Nemotron-3 Ultra</b> via Nebius Token Factory for automated root-cause fixes.</td>
+      <td>Autonomous CI/CD failure-diagnosis copilot using <b>NVIDIA Nemotron-3 Ultra</b> via Nebius Token Factory for automated root-cause fixes and patch generation.</td>
       <td><a href="https://github.com/AmarVerma99/Nebius-x-NVIDIA-Global-AI-Hackathon"><b>GitHub 🚀</b></a></td>
     </tr>
     <tr>
@@ -144,21 +193,55 @@
 ### 📜 Verified Certifications & Credentials
 
 <table>
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>🏅 <b>Anthropic Claude 101</b> — <a href="https://verify.skilljar.com/c/47igvefae5kb">Verify Certificate 🔗</a></li>
-        <li>🏅 <b>Anthropic Claude Code 101</b> — <a href="https://verify.skilljar.com/c/jh28jpyhgpzm">Verify Certificate 🔗</a></li>
-      </ul>
-    </td>
-    <td width="50%">
-      <ul>
-        <li>🏅 <b>Web Development (MERN Stack)</b> — <i>E&ICT Academy, IIT Kanpur</i></li>
-        <li>🏅 <b>C / C++ Programming & Core DSA</b> — <i>E&ICT Academy, IIT Kanpur</i></li>
-        <li>🎓 <b>B.Tech in Computer Science</b> — <i>GNIOT (AKTU University)</i></li>
-      </ul>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Certification / Credential</th>
+      <th>Issuing Organization</th>
+      <th>Status & Verification Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Flutter Networking & Data</b></td>
+      <td>Mltio Academy / Mltio University (EIAC Accredited)</td>
+      <td><a href="https://github.com/AmarVerma99/Amar_portfolio/blob/main/certificates/flutter-networking-and-data.pdf" target="_blank"><b>📄 View Verified PDF 🔗</b></a></td>
+    </tr>
+    <tr>
+      <td><b>Claude 101</b></td>
+      <td>Anthropic</td>
+      <td><a href="https://github.com/AmarVerma99/Amar_portfolio/blob/main/certificates/claude-101.pdf" target="_blank"><b>📄 View PDF</b></a> &nbsp;|&nbsp; <a href="https://verify.skilljar.com/c/47igvefae5kb" target="_blank"><b>Verify Online 🔗</b></a></td>
+    </tr>
+    <tr>
+      <td><b>Claude Code 101</b></td>
+      <td>Anthropic</td>
+      <td><a href="https://github.com/AmarVerma99/Amar_portfolio/blob/main/certificates/claude-code-101.pdf" target="_blank"><b>📄 View PDF</b></a> &nbsp;|&nbsp; <a href="https://verify.skilljar.com/c/jh28jpyhgpzm" target="_blank"><b>Verify Online 🔗</b></a></td>
+    </tr>
+    <tr>
+      <td><b>Introduction to Generative AI</b></td>
+      <td>Google Cloud (Powered by Simplilearn -- ID: 10904251)</td>
+      <td><a href="https://github.com/AmarVerma99/Amar_portfolio/blob/main/certificates/introduction-to-generative-ai.pdf" target="_blank"><b>📄 View Verified PDF 🔗</b></a></td>
+    </tr>
+    <tr>
+      <td><b>Prompt Engineering with GitHub Copilot</b></td>
+      <td>Microsoft (Powered by Simplilearn -- ID: 10904924)</td>
+      <td><a href="https://github.com/AmarVerma99/Amar_portfolio/blob/main/certificates/prompt-engineering-github-copilot.pdf" target="_blank"><b>📄 View Verified PDF 🔗</b></a></td>
+    </tr>
+    <tr>
+      <td><b>Web Development (MERN Stack)</b></td>
+      <td>E&ICT Academy, IIT Kanpur</td>
+      <td><b>Completed Training</b></td>
+    </tr>
+    <tr>
+      <td><b>C / C++ Programming & Core DSA</b></td>
+      <td>E&ICT Academy, IIT Kanpur</td>
+      <td><b>Certified</b></td>
+    </tr>
+    <tr>
+      <td><b>B.Tech in Computer Science & Engineering (CGPA: 7.5)</b></td>
+      <td>Greater Noida Institute of Technology (AKTU University)</td>
+      <td><b>2022 – 2026</b></td>
+    </tr>
+  </tbody>
 </table>
 
 ---
@@ -173,9 +256,9 @@
 
   <br><br>
 
-  <!-- 2. Languages & Featured Repo Cards (100% Live) -->
+  <!-- 2. Languages & Featured Repo Cards -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmarVerma99&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarVerma99&repo=OpusCopilot&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="48%" alt="Featured Repo OpusCopilot" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmarVerma99&repo=Amar_portfolio&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" width="48%" alt="Featured Repo Amar Portfolio" />
 
   <br><br>
 
