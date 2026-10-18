@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- 🌌 Futuristic Cyber/AI Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=220&section=header&text=AMAR%20VERMA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Full--Stack%20%26%20AI%20Engineer&descSize=17&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- 🌌 Futuristic Cyber/AI Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=AMAR%20VERMA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20AI%20Engineer&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <br>
 
