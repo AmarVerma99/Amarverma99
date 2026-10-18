@@ -1,7 +1,6 @@
 <div align="center">
 
   <!-- 🌌 Futuristic Cyber/AI Animated Header Banner -->
-  <!-- 🌌 Futuristic Cyber/AI Animated Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=AMAR%20VERMA&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20AI%20Engineer&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
 
   <br>
@@ -263,15 +262,15 @@ Results-driven **Software Developer & Mobile Engineer** with production experien
 
   <br><br>
 
-  <!-- 🤖 Live Animated Cyber Bot Writing Code -->
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" alt="Animated Coding Terminal" style="border-radius: 8px;" />
+  <!-- 💻 Colorful Developer Coding Showcase -->
+  <img src="./assets/developer-coding.jpg" width="100%" alt="Amar Verma - Developer Coding at Futuristic Workstation" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,35,50&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=100&section=footer" width="100%" />
   <sub><i>⚡ "Transforming complex logic into scalable, intelligent software."</i></sub>
   <br>
   <b>Let's build something impactful: <a href="mailto:amarv0302@gmail.com">amarv0302@gmail.com</a></b>
